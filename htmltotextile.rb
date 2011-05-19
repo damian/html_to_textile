@@ -134,3 +134,4 @@ class HTML2Textile
   end
 
 end
+
