@@ -1,0 +1,3 @@
+h2. HTML to Textile
+
+p. A small albeit messy script to convert HTML in to Textile using Nokogiri to parse the dom. Still very much a work in progress.
